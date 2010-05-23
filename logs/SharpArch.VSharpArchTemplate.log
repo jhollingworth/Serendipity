@@ -1,0 +1,45 @@
+21:25:26	MoveCommonAssemblyInfoToRoot: Moving CommonAssemblyInfo.cs from C:\Dev\Serendipity\SolutionItemsContainer\CommonAssemblyInfo.cs to root at C:\Dev\Serendipity\CommonAssemblyInfo.cs
+21:25:26	MoveSolutionItemsToLib: Moving solution items from C:\Dev\Serendipity\SolutionItemsContainer\Solution Items to lib at C:\Dev\Serendipity\lib
+21:25:27	MoveSolutionItemsToToolsLib: Moving tools solution items from C:\Dev\Serendipity\ToolsSolutionItemsContainer\Solution Items to tools lib at C:\Dev\Serendipity\tools\lib
+21:25:29	MoveProjectTo: Removing Serendipity.Core from solution
+21:25:30	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Dev\Serendipity\Serendipity.Core\Serendipity.Core.csproj
+21:25:30	MoveProjectTo: Moving Serendipity.Core from C:\Dev\Serendipity\Serendipity.Core to target location at C:\Dev\Serendipity\app\Serendipity.Core
+21:25:30	MoveProjectTo: Adding Serendipity.Core to solution
+21:25:31	CaptureProjectGuidOf: Does C:\Dev\Serendipity\app\Serendipity.Core\Serendipity.Core.csproj exist? True
+21:25:31	CaptureProjectGuidOf: About to open C:\Dev\Serendipity\app\Serendipity.Core\Serendipity.Core.csproj
+21:25:31	CaptureProjectGuidOf: Captured the GUID {5471034D-FC9C-4005-91A6-A88E01ED4E2F} for Serendipity.Core
+21:25:32	MoveProjectTo: Removing Serendipity.ApplicationServices from solution
+21:25:33	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Dev\Serendipity\Serendipity.ApplicationServices\Serendipity.ApplicationServices.csproj
+21:25:33	MoveProjectTo: Moving Serendipity.ApplicationServices from C:\Dev\Serendipity\Serendipity.ApplicationServices to target location at C:\Dev\Serendipity\app\Serendipity.ApplicationServices
+21:25:33	MoveProjectTo: Adding Serendipity.ApplicationServices to solution
+21:25:34	CaptureProjectGuidOf: Does C:\Dev\Serendipity\app\Serendipity.ApplicationServices\Serendipity.ApplicationServices.csproj exist? True
+21:25:34	CaptureProjectGuidOf: About to open C:\Dev\Serendipity\app\Serendipity.ApplicationServices\Serendipity.ApplicationServices.csproj
+21:25:34	CaptureProjectGuidOf: Captured the GUID {C97BB1F1-A038-4F91-8F65-684B73FC9E1F} for Serendipity.ApplicationServices
+21:25:37	MoveProjectTo: Removing Serendipity.Data from solution
+21:25:38	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Dev\Serendipity\Serendipity.Data\Serendipity.Data.csproj
+21:25:38	MoveProjectTo: Moving Serendipity.Data from C:\Dev\Serendipity\Serendipity.Data to target location at C:\Dev\Serendipity\app\Serendipity.Data
+21:25:38	MoveProjectTo: Adding Serendipity.Data to solution
+21:25:39	CaptureProjectGuidOf: Does C:\Dev\Serendipity\app\Serendipity.Data\Serendipity.Data.csproj exist? True
+21:25:39	CaptureProjectGuidOf: About to open C:\Dev\Serendipity\app\Serendipity.Data\Serendipity.Data.csproj
+21:25:39	CaptureProjectGuidOf: Captured the GUID {F5822B09-4928-445F-BE1A-B25E82A8AF1B} for Serendipity.Data
+21:25:41	MoveProjectTo: Removing Serendipity.Web.Controllers from solution
+21:25:42	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Dev\Serendipity\Serendipity.Web.Controllers\Serendipity.Web.Controllers.csproj
+21:25:42	MoveProjectTo: Moving Serendipity.Web.Controllers from C:\Dev\Serendipity\Serendipity.Web.Controllers to target location at C:\Dev\Serendipity\app\Serendipity.Web.Controllers
+21:25:42	MoveProjectTo: Adding Serendipity.Web.Controllers to solution
+21:25:44	CaptureProjectGuidOf: Does C:\Dev\Serendipity\app\Serendipity.Web.Controllers\Serendipity.Web.Controllers.csproj exist? True
+21:25:44	CaptureProjectGuidOf: About to open C:\Dev\Serendipity\app\Serendipity.Web.Controllers\Serendipity.Web.Controllers.csproj
+21:25:44	CaptureProjectGuidOf: Captured the GUID {62FB22B9-332E-4C8C-8659-0C146A598210} for Serendipity.Web.Controllers
+21:25:51	MoveProjectTo: Removing Serendipity.Tests from solution
+21:25:52	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Dev\Serendipity\Serendipity.Tests\Serendipity.Tests.csproj
+21:25:52	MoveProjectTo: Moving Serendipity.Tests from C:\Dev\Serendipity\Serendipity.Tests to target location at C:\Dev\Serendipity\tests\Serendipity.Tests
+21:25:52	MoveProjectTo: Adding Serendipity.Tests to solution
+21:26:01	MoveProjectTo: Removing Serendipity.Web from solution
+21:26:02	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Dev\Serendipity\Serendipity.Web\Serendipity.Web.csproj
+21:26:02	MoveProjectTo: Moving Serendipity.Web from C:\Dev\Serendipity\Serendipity.Web to target location at C:\Dev\Serendipity\app\Serendipity.Web
+21:26:02	MoveProjectTo: Adding Serendipity.Web to solution
+21:26:05	MoveProjectTo: Removing CrudScaffolding from solution
+21:26:06	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on C:\Dev\Serendipity\CrudScaffolding\CrudScaffolding.csproj
+21:26:06	MoveProjectTo: Moving CrudScaffolding from C:\Dev\Serendipity\CrudScaffolding to target location at C:\Dev\Serendipity\tools\CrudScaffolding
+21:26:07	MoveProjectTo: Adding CrudScaffolding to solution folder C:\Dev\Serendipity\tools\CrudScaffolding
+21:26:07	ExcludeProjectFromBuildProcess: Setting build to false for project Serendipity\tools\CrudScaffolding\CrudScaffolding.csproj within the Debug configuration
+21:26:07	ExcludeProjectFromBuildProcess: Setting build to false for project Serendipity\tools\CrudScaffolding\CrudScaffolding.csproj within the Release configuration

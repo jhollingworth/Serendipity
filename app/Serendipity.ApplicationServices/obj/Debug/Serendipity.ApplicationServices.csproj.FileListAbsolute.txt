@@ -1,0 +1,12 @@
+C:\Dev\Serendipity\app\Serendipity.ApplicationServices\bin\Debug\Serendipity.ApplicationServices.dll
+C:\Dev\Serendipity\app\Serendipity.ApplicationServices\bin\Debug\Serendipity.ApplicationServices.pdb
+C:\Dev\Serendipity\app\Serendipity.ApplicationServices\bin\Debug\Serendipity.Core.dll
+C:\Dev\Serendipity\app\Serendipity.ApplicationServices\bin\Debug\SharpArch.Core.dll
+C:\Dev\Serendipity\app\Serendipity.ApplicationServices\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Dev\Serendipity\app\Serendipity.ApplicationServices\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Serendipity\app\Serendipity.ApplicationServices\bin\Debug\SharpArch.Core.pdb
+C:\Dev\Serendipity\app\Serendipity.ApplicationServices\bin\Debug\Serendipity.Core.pdb
+C:\Dev\Serendipity\app\Serendipity.ApplicationServices\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\Serendipity\app\Serendipity.ApplicationServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Serendipity\app\Serendipity.ApplicationServices\obj\Debug\Serendipity.ApplicationServices.dll
+C:\Dev\Serendipity\app\Serendipity.ApplicationServices\obj\Debug\Serendipity.ApplicationServices.pdb

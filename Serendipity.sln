@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serendipity.Core", "app\Serendipity.Core\Serendipity.Core.csproj", "{5471034D-FC9C-4005-91A6-A88E01ED4E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serendipity.ApplicationServices", "app\Serendipity.ApplicationServices\Serendipity.ApplicationServices.csproj", "{C97BB1F1-A038-4F91-8F65-684B73FC9E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serendipity.Data", "app\Serendipity.Data\Serendipity.Data.csproj", "{F5822B09-4928-445F-BE1A-B25E82A8AF1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serendipity.Web.Controllers", "app\Serendipity.Web.Controllers\Serendipity.Web.Controllers.csproj", "{62FB22B9-332E-4C8C-8659-0C146A598210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serendipity.Web", "app\Serendipity.Web\Serendipity.Web.csproj", "{8FAA4337-68AE-4E34-89F3-F64057F89ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serendipity.Miner", "tools\Serendipity.Miner\Serendipity.Miner.csproj", "{BDB84211-EC9C-4261-AAEA-078B60BEC0C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5471034D-FC9C-4005-91A6-A88E01ED4E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5471034D-FC9C-4005-91A6-A88E01ED4E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5471034D-FC9C-4005-91A6-A88E01ED4E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5471034D-FC9C-4005-91A6-A88E01ED4E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97BB1F1-A038-4F91-8F65-684B73FC9E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97BB1F1-A038-4F91-8F65-684B73FC9E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97BB1F1-A038-4F91-8F65-684B73FC9E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97BB1F1-A038-4F91-8F65-684B73FC9E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5822B09-4928-445F-BE1A-B25E82A8AF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5822B09-4928-445F-BE1A-B25E82A8AF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5822B09-4928-445F-BE1A-B25E82A8AF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5822B09-4928-445F-BE1A-B25E82A8AF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FB22B9-332E-4C8C-8659-0C146A598210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FB22B9-332E-4C8C-8659-0C146A598210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FB22B9-332E-4C8C-8659-0C146A598210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FB22B9-332E-4C8C-8659-0C146A598210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAA4337-68AE-4E34-89F3-F64057F89ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAA4337-68AE-4E34-89F3-F64057F89ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAA4337-68AE-4E34-89F3-F64057F89ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAA4337-68AE-4E34-89F3-F64057F89ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB84211-EC9C-4261-AAEA-078B60BEC0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB84211-EC9C-4261-AAEA-078B60BEC0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB84211-EC9C-4261-AAEA-078B60BEC0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB84211-EC9C-4261-AAEA-078B60BEC0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
