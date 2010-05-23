@@ -1,19 +1,23 @@
 ﻿using System;
+using System.Linq;
 using System.Threading;
 using Serendipity.Core;
+using RssToolkit.Rss;
 
 namespace Serendipity.Miner
 {
     public class FeedSpider : IDisposable
     {
         private readonly Feed _feed;
+        private readonly FeedDownloader _downloader;
         private readonly Thread _spiderThread;
         public event EventHandler<LinkEventArgs> LinkFound = delegate { };
 
-        public FeedSpider(Feed feed)
+        public FeedSpider(Feed feed, FeedDownloader downloader)
         {
             _feed = feed;
-            
+            _downloader = downloader;
+
             _spiderThread = new Thread(Spider);
         }
 
@@ -26,10 +30,21 @@ namespace Serendipity.Miner
         {
             while(true)
             {
-                var url = "http://www.google.com/reader/atom/feed/" + _feed.Url;
+                //var items = from o in _downloader.Download(_feed.Url).SelectItems()
+                //            let i = (RssItem)o
 
 
-                LinkFound(this, new LinkEventArgs(new Link()));
+
+
+                //foreach (var item in items)
+                //{
+                    
+                //}
+
+                
+
+
+                
 
                 Thread.Sleep(new TimeSpan(0, 1, 0));
             }

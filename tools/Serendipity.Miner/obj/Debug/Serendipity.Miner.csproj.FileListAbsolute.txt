@@ -25,7 +25,6 @@ C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\Antlr3.Runtime.dll
 C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\System.Web.Mvc.dll
 C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\SharpArch.Data.dll
 C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\CommonServiceLocator.WindsorAdapter.dll
-C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\Microsoft.Web.Mvc.dll
 C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\NHibernate.Validator.dll
 C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\Serendipity.Data.dll
 C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\MvcContrib.Castle.dll
@@ -53,3 +52,4 @@ C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\Castle.Core.xml
 C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\Iesi.Collections.xml
 C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\NHibernate.xml
 C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\SharpArch.Web.pdb
+C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\RssToolkit.dll

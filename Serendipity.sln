@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serendipity.Web", "app\Sere
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serendipity.Miner", "tools\Serendipity.Miner\Serendipity.Miner.csproj", "{BDB84211-EC9C-4261-AAEA-078B60BEC0C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serendipity.Specs", "tests\Serendipity.Specs\Serendipity.Specs.csproj", "{FB2113E6-6E9D-40B6-90B3-834CB5A55C7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{BDB84211-EC9C-4261-AAEA-078B60BEC0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDB84211-EC9C-4261-AAEA-078B60BEC0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDB84211-EC9C-4261-AAEA-078B60BEC0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2113E6-6E9D-40B6-90B3-834CB5A55C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2113E6-6E9D-40B6-90B3-834CB5A55C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2113E6-6E9D-40B6-90B3-834CB5A55C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2113E6-6E9D-40B6-90B3-834CB5A55C7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
