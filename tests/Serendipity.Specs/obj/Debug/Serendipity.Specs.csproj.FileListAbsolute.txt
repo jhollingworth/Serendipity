@@ -56,3 +56,4 @@ C:\Dev\Serendipity\tests\Serendipity.Specs\bin\Debug\SharpArch.Web.pdb
 C:\Dev\Serendipity\tests\Serendipity.Specs\obj\Debug\ResolveAssemblyReference.cache
 C:\Dev\Serendipity\tests\Serendipity.Specs\obj\Debug\Serendipity.Specs.dll
 C:\Dev\Serendipity\tests\Serendipity.Specs\obj\Debug\Serendipity.Specs.pdb
+C:\Dev\Serendipity\tests\Serendipity.Specs\bin\Debug\Moq.dll

@@ -1,0 +1,121 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:RssToolkit.Rss.RssDocument">
+      <Item value="Channel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RssToolkit.Rss.RssChannel">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="where" priority="0" />
+      <Item value="i" priority="1" />
+      <Item value="_feed" priority="0" />
+      <Item value="l" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="var" priority="3" />
+      <Item value="Feed`0" priority="0" />
+      <Item value="base" priority="0" />
+      <Item value="t" priority="0" />
+      <Item value="_links" priority="1" />
+      <Item value="new" priority="3" />
+      <Item value="Link`0" priority="2" />
+      <Item value="item" priority="5" />
+      <Item value="WaitCallback`0" priority="0" />
+      <Item value="link" priority="6" />
+      <Item value="_spiderThread" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="virtual" priority="1" />
+      <Item value="string" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="LinkFound" priority="0" />
+      <Item value="LinkEventArgs" priority="0" />
+      <Item value="links" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RssToolkit.Rss.RssItem">
+      <Item value="Guid" priority="0" />
+      <Item value="Link" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="PubDateParsed" priority="0" />
+      <Item value="Source" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Serendipity.Core.Feed">
+      <Item value="Links" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Any`1" priority="0" />
+      <Item value="Add`0" priority="0" />
+      <Item value="ForEach`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Serendipity.Core.Link">
+      <Item value="UId" priority="1" />
+      <Item value="Feed" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="DatePublished" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RssToolkit.Rss.RssGuid">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SharpArch.Core.PersistenceSupport.IRepository`1">
+      <Item value="DbContext" priority="0" />
+      <Item value="Delete`0" priority="0" />
+      <Item value="SaveOrUpdate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SharpArch.Core.PersistenceSupport.IDbContext">
+      <Item value="BeginTransaction`0" priority="0" />
+      <Item value="CommitTransaction`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RssToolkit.Rss.RssSource">
+      <Item value="Url" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.Tool.hbm2ddl.SchemaExport">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FB2113E6-6E9D-40B6-90B3-834CB5A55C7B/f:FeedSpiderTests.cs" caret="717" fromTop="24" />
+      <File id="BDB84211-EC9C-4261-AAEA-078B60BEC0C2/f:FeedDownloader.cs" caret="348" fromTop="11" />
+      <File id="5471034D-FC9C-4005-91A6-A88E01ED4E2F/f:Link.cs" caret="649" fromTop="14" />
+      <File id="BDB84211-EC9C-4261-AAEA-078B60BEC0C2/f:FeedSpider.cs" caret="1181" fromTop="22" />
+      <File id="5471034D-FC9C-4005-91A6-A88E01ED4E2F/f:Feed.cs" caret="190" fromTop="7" />
+      <File id="8FAA4337-68AE-4E34-89F3-F64057F89ABD/f:Global.asax.cs" caret="2805" fromTop="12" />
+      <File id="8FAA4337-68AE-4E34-89F3-F64057F89ABD/d:CastleWindsor/f:ComponentRegistrar.cs" caret="647" fromTop="1" />
+      <File id="F5822B09-4928-445F-BE1A-B25E82A8AF1B/d:NHibernateMaps/f:AutoPersistenceModelGenerator.cs" caret="1088" fromTop="16" />
+      <File id="BDB84211-EC9C-4261-AAEA-078B60BEC0C2/f:Program.cs" caret="834" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BDB84211-EC9C-4261-AAEA-078B60BEC0C2/f:FeedSpider.cs" caret="624" fromTop="15" />
+      <File id="5471034D-FC9C-4005-91A6-A88E01ED4E2F/f:Link.cs" caret="214" fromTop="6" />
+      <File id="5471034D-FC9C-4005-91A6-A88E01ED4E2F/f:Link.cs" caret="649" fromTop="14" />
+      <File id="BDB84211-EC9C-4261-AAEA-078B60BEC0C2/f:FeedSpider.cs" caret="1982" fromTop="20" />
+      <File id="BDB84211-EC9C-4261-AAEA-078B60BEC0C2/f:FeedSpider.cs" caret="1777" fromTop="18" />
+      <File id="BDB84211-EC9C-4261-AAEA-078B60BEC0C2/f:FeedSpider.cs" caret="1945" fromTop="23" />
+      <File id="BDB84211-EC9C-4261-AAEA-078B60BEC0C2/f:FeedSpider.cs" caret="1254" fromTop="1" />
+      <File id="BDB84211-EC9C-4261-AAEA-078B60BEC0C2/f:FeedSpider.cs" caret="1455" fromTop="7" />
+      <File id="5471034D-FC9C-4005-91A6-A88E01ED4E2F/f:Feed.cs" caret="190" fromTop="7" />
+      <File id="8FAA4337-68AE-4E34-89F3-F64057F89ABD/f:Global.asax.cs" caret="3403" fromTop="24" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

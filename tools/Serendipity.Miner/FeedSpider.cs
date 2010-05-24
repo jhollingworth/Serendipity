@@ -1,58 +1,49 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
-using System.Threading;
 using Serendipity.Core;
-using RssToolkit.Rss;
+using SharpArch.Core.PersistenceSupport;
 
 namespace Serendipity.Miner
 {
-    public class FeedSpider : IDisposable
+    public class FeedSpider 
     {
         private readonly Feed _feed;
         private readonly FeedDownloader _downloader;
-        private readonly Thread _spiderThread;
+        private readonly IRepository<Link> _links;
         public event EventHandler<LinkEventArgs> LinkFound = delegate { };
 
-        public FeedSpider(Feed feed, FeedDownloader downloader)
+        public FeedSpider(Feed feed, FeedDownloader downloader, IRepository<Link> links)
         {
             _feed = feed;
             _downloader = downloader;
-
-            _spiderThread = new Thread(Spider);
+            _links = links;
         }
 
-        public void Start()
+        public void Spider()
         {
-            _spiderThread.Start();
-        }
+            var items = from i in _downloader.Download(_feed.Url).Channel.Items
+                        where _feed.Links.Any(l => l.UId == i.Guid.Text.Trim()) == false
+                        select i;
 
-        private void Spider()
-        {
-            while(true)
+            var links = new List<Link>();
+
+            foreach (var item in items)
             {
-                //var items = from o in _downloader.Download(_feed.Url).SelectItems()
-                //            let i = (RssItem)o
+                var link = new Link
+                {
+                    Feed = _feed,
+                    UId = item.Link,
+                    Title = item.Title,
+                    DatePublished = item.PubDateParsed
+                };
 
-
-
-
-                //foreach (var item in items)
-                //{
-                    
-                //}
-
-                
-
-
-                
-
-                Thread.Sleep(new TimeSpan(0, 1, 0));
+                _links.SaveOrUpdate(link);
+                links.Add(link);
             }
-        }
 
-        public void Dispose()
-        {
-            _spiderThread.Abort();
+        
+            links.ForEach(l => LinkFound(this, new LinkEventArgs(l)));
         }
     }
 }

@@ -1,4 +1,564 @@
-<?xml version="1.0"?><feed xmlns:idx="urn:atom-extension:indexing" xmlns:media="http://search.yahoo.com/mrss/" xmlns:gr="http://www.google.com/schemas/reader/atom/" xmlns="http://www.w3.org/2005/Atom" idx:index="no" gr:dir="ltr"><!--
-Content-type: Preventing XSRF in IE.
+<?xml version="1.0"?>
 
---><generator uri="http://www.google.com/reader">Google Reader</generator><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title>Hacker News</title><subtitle type="html">Links for the intellectually curious, ranked by readers.</subtitle><gr:continuation>CKDCqaf86KEC</gr:continuation><link rel="self" href="http://www.google.com/reader/atom/feed/http://news.ycombinator.com/rss"/><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/><updated>2010-05-23T22:15:25Z</updated><entry gr:crawl-timestamp-msec="1274652925976"><id gr:original-id="">tag:google.com,2005:reader/item/efca491c728b1d05</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Steve Jobs on WWDC: "You won't be disappointed"</title><published>2010-05-23T22:15:25Z</published><updated>2010-05-23T22:15:25Z</updated><link rel="alternate" href="http://www.edibleapple.com/steve-jobs-promises-that-wwdc-wont-disappoint/" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1373131"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274651230200"><id gr:original-id="">tag:google.com,2005:reader/item/85e7fb44c701bbca</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Functional programming, APL and UNIX pipes</title><published>2010-05-23T21:47:10Z</published><updated>2010-05-23T21:47:10Z</updated><link rel="alternate" href="http://porg.es/blog/functional-programming-apl-and-unix-pipes" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1373046"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274651230200"><id gr:original-id="">tag:google.com,2005:reader/item/06808ae228e9b09f</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Ask HN: How valuable to my resume is 5 years at Microsoft?</title><published>2010-05-23T21:47:10Z</published><updated>2010-05-23T21:47:10Z</updated><link rel="alternate" href="http://news.ycombinator.com/item?id=1373076" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1373076"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274651230200"><id gr:original-id="">tag:google.com,2005:reader/item/eb17798b7b353edf</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Google PACMAN</title><published>2010-05-23T21:47:10Z</published><updated>2010-05-23T21:47:10Z</updated><link rel="alternate" href="http://www.google.com/pacman/" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1372989"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274649889920"><id gr:original-id="">tag:google.com,2005:reader/item/f23f167baaf5e45a</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Nethack: The Greatest Game You Will Ever Play</title><published>2010-05-23T21:24:49Z</published><updated>2010-05-23T21:24:49Z</updated><link rel="alternate" href="http://thegreatestgameyouwilleverplay.com/" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1373039"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><gr:likingUser>06405729912562463760</gr:likingUser><gr:likingUser>03134408869404801514</gr:likingUser><gr:likingUser>03498484511428850716</gr:likingUser><gr:likingUser>17607091066203814487</gr:likingUser><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274649889919"><id gr:original-id="">tag:google.com,2005:reader/item/651d3b6a0ceee9c6</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Ask HN: How long was your web app beta period?</title><published>2010-05-23T21:24:49Z</published><updated>2010-05-23T21:24:49Z</updated><link rel="alternate" href="http://news.ycombinator.com/item?id=1373005" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1373005"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274649889918"><id gr:original-id="">tag:google.com,2005:reader/item/e364c86fa6f9ea08</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">How many people on here are non-tech founders?</title><published>2010-05-23T21:24:49Z</published><updated>2010-05-23T21:24:49Z</updated><link rel="alternate" href="http://news.ycombinator.com/item?id=1373002" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1373002"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274649158929"><id gr:original-id="">tag:google.com,2005:reader/item/4802579b8502b0b1</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Manufactoria - a game about turing machines</title><published>2010-05-23T21:12:38Z</published><updated>2010-05-23T21:12:38Z</updated><link rel="alternate" href="http://jayisgames.com/games/manufactoria/" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1373028"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274649158928"><id gr:original-id="">tag:google.com,2005:reader/item/61535193d4ef0f3b</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">The Century Of Self: Happiness Machines.  The Birth of Consumerism [video]</title><published>2010-05-23T21:12:38Z</published><updated>2010-05-23T21:12:38Z</updated><link rel="alternate" href="http://video.google.com/videoplay?docid=6718420906413643126#" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1372958"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274649158927"><id gr:original-id="">tag:google.com,2005:reader/item/fcdcc81d7c20710f</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">New programming jargon you coined</title><published>2010-05-23T21:12:38Z</published><updated>2010-05-23T21:12:38Z</updated><link rel="alternate" href="http://stackoverflow.com/questions/2349378/new-programming-jargon-you-coined" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1372941"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274648815403"><id gr:original-id="">tag:google.com,2005:reader/item/4335fab9c5d835ce</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">6pm.com's 1.6 million dollar pricing mistake</title><published>2010-05-23T21:06:55Z</published><updated>2010-05-23T21:06:55Z</updated><link rel="alternate" href="http://blogs.zappos.com/blogs/inside-zappos/2010/05/21/6pm-com-pricing-mistake" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1372973"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><gr:likingUser>06405729912562463760</gr:likingUser><gr:likingUser>16524902531872678726</gr:likingUser><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274648815402"><id gr:original-id="">tag:google.com,2005:reader/item/43988bf4afc10dd0</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Facebook we have a problem</title><published>2010-05-23T21:06:55Z</published><updated>2010-05-23T21:06:55Z</updated><link rel="alternate" href="http://scobleizer.com/2010/05/23/facebook-we-have-a-problem/" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1372887"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274646903242"><id gr:original-id="">tag:google.com,2005:reader/item/5163ee21a0adf316</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Download Google Pacman</title><published>2010-05-23T20:35:03Z</published><updated>2010-05-23T20:35:03Z</updated><link rel="alternate" href="http://mashable.com/2010/05/23/download-google-pacman/" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1372839"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><gr:likingUser>01672061414039448368</gr:likingUser><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274644103271"><id gr:original-id="">tag:google.com,2005:reader/item/a8076325f91e7d19</id><category term="user/06170481289021240276/state/com.google/read" scheme="http://www.google.com/reader/" label="read"/><category term="user/06170481289021240276/state/com.google/tracking-item-link-used" scheme="http://www.google.com/reader/" label="tracking-item-link-used"/><category term="user/06170481289021240276/state/com.google/tracking-mobile-read" scheme="http://www.google.com/reader/" label="tracking-mobile-read"/><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Ask HN: How do you begin the process of developing a web application?</title><published>2010-05-23T19:48:23Z</published><updated>2010-05-23T19:48:23Z</updated><link rel="alternate" href="http://news.ycombinator.com/item?id=1372802" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1372802"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274644103271"><id gr:original-id="">tag:google.com,2005:reader/item/b98cfaa87bc38b95</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Ask HN: Starting iPhone developer salary for new grad?</title><published>2010-05-23T19:48:23Z</published><updated>2010-05-23T19:48:23Z</updated><link rel="alternate" href="http://news.ycombinator.com/item?id=1372773" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1372773"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274644103270"><id gr:original-id="">tag:google.com,2005:reader/item/fb08c301b28a1962</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Best of TechCrunch Disrupt Hack Day Demos</title><published>2010-05-23T19:48:23Z</published><updated>2010-05-23T19:48:23Z</updated><link rel="alternate" href="http://www.zdnet.com/blog/weblife/best-of-techcrunch-disrupt-hack-day-demos/1743" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1372655"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274644103269"><id gr:original-id="">tag:google.com,2005:reader/item/b803f1ab0a73be59</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Ask HN: Looking for Private or Corporate Sponsorship</title><published>2010-05-23T19:48:23Z</published><updated>2010-05-23T19:48:23Z</updated><link rel="alternate" href="http://news.ycombinator.com/item?id=1372658" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1372658"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274643081245"><id gr:original-id="">tag:google.com,2005:reader/item/386f37c1e8cc609b</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Her hair coincidentally bears a resemblance to the Firefox logo</title><published>2010-05-23T19:31:21Z</published><updated>2010-05-23T19:31:21Z</updated><link rel="alternate" href="http://en.wikipedia.org/wiki/Mitchell_Baker#Personal_life" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1372810"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274642223002"><id gr:original-id="">tag:google.com,2005:reader/item/904aec6d952b01df</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">8 biologists on the meaning of synthetic life</title><published>2010-05-23T19:17:03Z</published><updated>2010-05-23T19:17:03Z</updated><link rel="alternate" href="http://www.nature.com/nature/journal/vaop/ncurrent/pdf/465422a.pdf" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1372778"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry><entry gr:crawl-timestamp-msec="1274642222965"><id gr:original-id="">tag:google.com,2005:reader/item/0c0fc124fc1e606e</id><category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list"/><category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology"/><category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh"/><title type="html">Normalize Android: Turning off HTC Sense UI on the HTC EVO 4G, Incredible, etc.</title><published>2010-05-23T19:17:02Z</published><updated>2010-05-23T19:17:02Z</updated><link rel="alternate" href="http://www.buildcontext.com/blog/2010/05/23/turning-off-htc-sense-ui-senseui-htc-evo-4g-incredible-android-phones/" type="text/html"/><summary xml:base="http://news.ycombinator.com/" type="html">&lt;a href="http://news.ycombinator.com/item?id=1372721"&gt;Comments&lt;/a&gt;</summary><author gr:unknown-author="true"><name>(author unknown)</name></author><source gr:stream-id="feed/http://news.ycombinator.com/rss"><id>tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss</id><title type="html">Hacker News</title><link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/></source></entry></feed>
+<feed xmlns:idx="urn:atom-extension:indexing" xmlns:media="http://search.yahoo.com/mrss/" xmlns:gr="http://www.google.com/schemas/reader/atom/" xmlns="http://www.w3.org/2005/Atom" idx:index="no" gr:dir="ltr">
+  <generator uri="http://www.google.com/reader">Google Reader</generator>
+  <id>
+    tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+  </id>
+  <title>Hacker News</title>
+  <subtitle type="html">
+    Links for the intellectually curious, ranked by readers.
+  </subtitle>
+  <gr:continuation>CKDCqaf86KEC</gr:continuation>
+  <link rel="self" href="http://www.google.com/reader/atom/feed/http://news.ycombinator.com/rss" />
+  <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+  <updated>2010-05-23T22:15:25Z</updated>
+  <entry gr:crawl-timestamp-msec="1274652925976">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/efca491c728b1d05
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Steve Jobs on WWDC: "You won't be disappointed"
+    </title>
+    <published>2010-05-23T22:15:25Z</published>
+    <updated>2010-05-23T22:15:25Z</updated>
+    <link rel="alternate" href="http://www.edibleapple.com/steve-jobs-promises-that-wwdc-wont-disappoint/" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1373131"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274651230200">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/85e7fb44c701bbca
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Functional programming, APL and UNIX pipes
+    </title>
+    <published>2010-05-23T21:47:10Z</published>
+    <updated>2010-05-23T21:47:10Z</updated>
+    <link rel="alternate" href="http://porg.es/blog/functional-programming-apl-and-unix-pipes" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1373046"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274651230200">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/06808ae228e9b09f
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Ask HN: How valuable to my resume is 5 years at Microsoft?
+    </title>
+    <published>2010-05-23T21:47:10Z</published>
+    <updated>2010-05-23T21:47:10Z</updated>
+    <link rel="alternate" href="http://news.ycombinator.com/item?id=1373076" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1373076"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274651230200">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/eb17798b7b353edf
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">Google PACMAN</title>
+    <published>2010-05-23T21:47:10Z</published>
+    <updated>2010-05-23T21:47:10Z</updated>
+    <link rel="alternate" href="http://www.google.com/pacman/" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1372989"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274649889920">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/f23f167baaf5e45a
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Nethack: The Greatest Game You Will Ever Play
+    </title>
+    <published>2010-05-23T21:24:49Z</published>
+    <updated>2010-05-23T21:24:49Z</updated>
+    <link rel="alternate" href="http://thegreatestgameyouwilleverplay.com/" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1373039"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <gr:likingUser>06405729912562463760</gr:likingUser>
+    <gr:likingUser>03134408869404801514</gr:likingUser>
+    <gr:likingUser>03498484511428850716</gr:likingUser>
+    <gr:likingUser>17607091066203814487</gr:likingUser>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274649889919">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/651d3b6a0ceee9c6
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Ask HN: How long was your web app beta period?
+    </title>
+    <published>2010-05-23T21:24:49Z</published>
+    <updated>2010-05-23T21:24:49Z</updated>
+    <link rel="alternate" href="http://news.ycombinator.com/item?id=1373005" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1373005"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274649889918">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/e364c86fa6f9ea08
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      How many people on here are non-tech founders?
+    </title>
+    <published>2010-05-23T21:24:49Z</published>
+    <updated>2010-05-23T21:24:49Z</updated>
+    <link rel="alternate" href="http://news.ycombinator.com/item?id=1373002" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1373002"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274649158929">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/4802579b8502b0b1
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Manufactoria - a game about turing machines
+    </title>
+    <published>2010-05-23T21:12:38Z</published>
+    <updated>2010-05-23T21:12:38Z</updated>
+    <link rel="alternate" href="http://jayisgames.com/games/manufactoria/" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1373028"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274649158928">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/61535193d4ef0f3b
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      The Century Of Self: Happiness Machines.  The Birth of Consumerism [video]
+    </title>
+    <published>2010-05-23T21:12:38Z</published>
+    <updated>2010-05-23T21:12:38Z</updated>
+    <link rel="alternate" href="http://video.google.com/videoplay?docid=6718420906413643126#" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1372958"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274649158927">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/fcdcc81d7c20710f
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      New programming jargon you coined
+    </title>
+    <published>2010-05-23T21:12:38Z</published>
+    <updated>2010-05-23T21:12:38Z</updated>
+    <link rel="alternate" href="http://stackoverflow.com/questions/2349378/new-programming-jargon-you-coined" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1372941"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274648815403">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/4335fab9c5d835ce
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      6pm.com's 1.6 million dollar pricing mistake
+    </title>
+    <published>2010-05-23T21:06:55Z</published>
+    <updated>2010-05-23T21:06:55Z</updated>
+    <link rel="alternate" href="http://blogs.zappos.com/blogs/inside-zappos/2010/05/21/6pm-com-pricing-mistake" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1372973"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <gr:likingUser>06405729912562463760</gr:likingUser>
+    <gr:likingUser>16524902531872678726</gr:likingUser>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274648815402">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/43988bf4afc10dd0
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Facebook we have a problem
+    </title>
+    <published>2010-05-23T21:06:55Z</published>
+    <updated>2010-05-23T21:06:55Z</updated>
+    <link rel="alternate" href="http://scobleizer.com/2010/05/23/facebook-we-have-a-problem/" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1372887"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274646903242">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/5163ee21a0adf316
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Download Google Pacman
+    </title>
+    <published>2010-05-23T20:35:03Z</published>
+    <updated>2010-05-23T20:35:03Z</updated>
+    <link rel="alternate" href="http://mashable.com/2010/05/23/download-google-pacman/" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1372839"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <gr:likingUser>01672061414039448368</gr:likingUser>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274644103271">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/a8076325f91e7d19
+    </id>
+    <category term="user/06170481289021240276/state/com.google/read" scheme="http://www.google.com/reader/" label="read" />
+    <category term="user/06170481289021240276/state/com.google/tracking-item-link-used" scheme="http://www.google.com/reader/" label="tracking-item-link-used" />
+    <category term="user/06170481289021240276/state/com.google/tracking-mobile-read" scheme="http://www.google.com/reader/" label="tracking-mobile-read" />
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Ask HN: How do you begin the process of developing a web application?
+    </title>
+    <published>2010-05-23T19:48:23Z</published>
+    <updated>2010-05-23T19:48:23Z</updated>
+    <link rel="alternate" href="http://news.ycombinator.com/item?id=1372802" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1372802"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274644103271">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/b98cfaa87bc38b95
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Ask HN: Starting iPhone developer salary for new grad?
+    </title>
+    <published>2010-05-23T19:48:23Z</published>
+    <updated>2010-05-23T19:48:23Z</updated>
+    <link rel="alternate" href="http://news.ycombinator.com/item?id=1372773" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1372773"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274644103270">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/fb08c301b28a1962
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Best of TechCrunch Disrupt Hack Day Demos
+    </title>
+    <published>2010-05-23T19:48:23Z</published>
+    <updated>2010-05-23T19:48:23Z</updated>
+    <link rel="alternate" href="http://www.zdnet.com/blog/weblife/best-of-techcrunch-disrupt-hack-day-demos/1743" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1372655"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274644103269">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/b803f1ab0a73be59
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Ask HN: Looking for Private or Corporate Sponsorship
+    </title>
+    <published>2010-05-23T19:48:23Z</published>
+    <updated>2010-05-23T19:48:23Z</updated>
+    <link rel="alternate" href="http://news.ycombinator.com/item?id=1372658" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1372658"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274643081245">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/386f37c1e8cc609b
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Her hair coincidentally bears a resemblance to the Firefox logo
+    </title>
+    <published>2010-05-23T19:31:21Z</published>
+    <updated>2010-05-23T19:31:21Z</updated>
+    <link rel="alternate" href="http://en.wikipedia.org/wiki/Mitchell_Baker#Personal_life" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1372810"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274642223002">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/904aec6d952b01df
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      8 biologists on the meaning of synthetic life
+    </title>
+    <published>2010-05-23T19:17:03Z</published>
+    <updated>2010-05-23T19:17:03Z</updated>
+    <link rel="alternate" href="http://www.nature.com/nature/journal/vaop/ncurrent/pdf/465422a.pdf" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1372778"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+  <entry gr:crawl-timestamp-msec="1274642222965">
+    <id gr:original-id="">
+      tag:google.com,2005:reader/item/0c0fc124fc1e606e
+    </id>
+    <category term="user/06170481289021240276/state/com.google/reading-list" scheme="http://www.google.com/reader/" label="reading-list" />
+    <category term="user/06170481289021240276/label/technology" scheme="http://www.google.com/reader/" label="technology" />
+    <category term="user/06170481289021240276/state/com.google/fresh" scheme="http://www.google.com/reader/" label="fresh" />
+    <title type="html">
+      Normalize Android: Turning off HTC Sense UI on the HTC EVO 4G, Incredible, etc.
+    </title>
+    <published>2010-05-23T19:17:02Z</published>
+    <updated>2010-05-23T19:17:02Z</updated>
+    <link rel="alternate" href="http://www.buildcontext.com/blog/2010/05/23/turning-off-htc-sense-ui-senseui-htc-evo-4g-incredible-android-phones/" type="text/html" />
+    <summary xml:base="http://news.ycombinator.com/" type="html">
+      &lt;a href="http://news.ycombinator.com/item?id=1372721"&gt;Comments&lt;/a&gt;
+    </summary>
+    <author gr:unknown-author="true">
+      <name>(author unknown)</name>
+    </author>
+    <source gr:stream-id="feed/http://news.ycombinator.com/rss">
+      <id>
+        tag:google.com,2005:reader/feed/http://news.ycombinator.com/rss
+      </id>
+      <title type="html">Hacker News</title>
+      <link rel="alternate" href="http://news.ycombinator.com/" type="text/html" />
+    </source>
+  </entry>
+</feed>

@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="FB2113E6-6E9D-40B6-90B3-834CB5A55C7B" ModuleId="Serendipity.Specs" />
+  <Module PersistentId="BDB84211-EC9C-4261-AAEA-078B60BEC0C2" ModuleId="Serendipity.Miner" />
+  <Module PersistentId="5471034D-FC9C-4005-91A6-A88E01ED4E2F" ModuleId="Serendipity.Core" />
+  <Module PersistentId="8FAA4337-68AE-4E34-89F3-F64057F89ABD" ModuleId="Serendipity.Web" />
+  <Module PersistentId="F5822B09-4928-445F-BE1A-B25E82A8AF1B" ModuleId="Serendipity.Data" />
+  <Module PersistentId="62FB22B9-332E-4C8C-8659-0C146A598210" ModuleId="Serendipity.Web.Controllers" />
+</Modules>

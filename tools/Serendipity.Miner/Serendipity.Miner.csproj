@@ -84,6 +84,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\app\Serendipity.ApplicationServices\Serendipity.ApplicationServices.csproj">
+      <Project>{C97BB1F1-A038-4F91-8F65-684B73FC9E1F}</Project>
+      <Name>Serendipity.ApplicationServices</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\app\Serendipity.Core\Serendipity.Core.csproj">
       <Project>{5471034D-FC9C-4005-91A6-A88E01ED4E2F}</Project>
       <Name>Serendipity.Core</Name>

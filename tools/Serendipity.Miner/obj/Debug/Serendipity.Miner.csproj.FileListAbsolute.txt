@@ -53,3 +53,5 @@ C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\Iesi.Collections.xml
 C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\NHibernate.xml
 C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\SharpArch.Web.pdb
 C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\RssToolkit.dll
+C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\Serendipity.ApplicationServices.dll
+C:\Dev\Serendipity\tools\Serendipity.Miner\bin\Debug\Serendipity.ApplicationServices.pdb

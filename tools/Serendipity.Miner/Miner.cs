@@ -30,13 +30,12 @@ namespace Serendipity.Miner
             foreach (var spider in _spiders)
             {
                 spider.LinkFound += (s, e) => _linkIndexer.Index(e.Link);
-                spider.Start();
+                spider.Spider();
             }
         }
 
         public void Dispose()
         {
-            _spiders.ForEach(s => s.Dispose());
         }
     }
 }
