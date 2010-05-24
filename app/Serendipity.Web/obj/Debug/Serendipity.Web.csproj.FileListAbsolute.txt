@@ -57,3 +57,5 @@ C:\Dev\Serendipity\app\Serendipity.Web\bin\SharpArch.Web.pdb
 C:\Dev\Serendipity\app\Serendipity.Web\obj\Debug\ResolveAssemblyReference.cache
 C:\Dev\Serendipity\app\Serendipity.Web\obj\Debug\Serendipity.Web.dll
 C:\Dev\Serendipity\app\Serendipity.Web\obj\Debug\Serendipity.Web.pdb
+C:\Dev\Serendipity\app\Serendipity.Web\bin\NHibernate.Linq.dll
+C:\Dev\Serendipity\app\Serendipity.Web\bin\NHibernate.Linq.xml

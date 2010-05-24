@@ -4,9 +4,9 @@ using Serendipity.Core;
 
 namespace Serendipity.Miner.Indexers
 {
-    public class SolrIndexer : Indexer
+    public class SolrIndexer : IIndexer
     {
-        public override void Index(Link link)
+        public void Index(Link link)
         {
             throw new NotImplementedException();
         }

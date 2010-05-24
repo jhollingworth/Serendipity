@@ -3,9 +3,9 @@ using Serendipity.Core;
     
 namespace Serendipity.Miner.Indexers    
 {
-    public class PostRankIndexer : Indexer
+    public class PostRankIndexer : IIndexer
     {
-        public override void Index(Link link)
+        public void Index(Link link)
         {
             throw new NotImplementedException();
         }

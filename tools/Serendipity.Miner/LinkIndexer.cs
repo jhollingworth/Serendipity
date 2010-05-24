@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Threading;
+using System.Linq;
 using Serendipity.Core;
 
 using Serendipity.Miner.Indexers;
@@ -9,20 +8,22 @@ namespace Serendipity.Miner
 {
     public class LinkIndexer
     {
+        private readonly IParallelisedWork _parallelisedWork;
+        private readonly IIndexer[] _indexers;
         public event EventHandler<LinkEventArgs> LinkIndexed = delegate { };
 
-        private readonly List<Indexer> Indexers = new List<Indexer>
+        public LinkIndexer(IParallelisedWork parallelisedWork, IIndexer[] indexers)
         {
-            new DeliciousTagIndexer(),
-            new PostRankIndexer(),
-            new SemanticTagIndexer(),
-            new SolrIndexer()
-        };
+            _parallelisedWork = parallelisedWork;
+            _indexers = indexers;
+        }
 
         public void Index(Link link)
         {
-            foreach (var indexer in Indexers)
-                ThreadPool.QueueUserWorkItem(w => indexer.Index(link));
+            _parallelisedWork.DoWork(
+                _indexers.Select(i => new Action(() => i.Index(link))).ToArray());
+
+            LinkIndexed(this, new LinkEventArgs(link));
         }
     }
 }

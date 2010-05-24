@@ -55,6 +55,10 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\lib\SharpArch.Core.dll</HintPath>
     </Reference>
+    <Reference Include="SharpArch.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b5f559ae0ac4e006, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\SharpArch.Data.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
@@ -72,10 +76,11 @@
     <Compile Include="FeedDownloader.cs" />
     <Compile Include="FeedSpider.cs" />
     <Compile Include="Indexers\DeliciousTagIndexer.cs" />
-    <Compile Include="Indexers\Indexer.cs" />
+    <Compile Include="Indexers\IIndexer.cs" />
     <Compile Include="Indexers\PostRankIndexer.cs" />
     <Compile Include="Indexers\SemanticTagIndexer.cs" />
     <Compile Include="Indexers\SolrIndexer.cs" />
+    <Compile Include="IParallelisedWork.cs" />
     <Compile Include="LinkEventArgs.cs" />
     <Compile Include="LinkIndexer.cs" />
     <Compile Include="LinkRanker.cs" />
@@ -91,6 +96,10 @@
     <ProjectReference Include="..\..\app\Serendipity.Core\Serendipity.Core.csproj">
       <Project>{5471034D-FC9C-4005-91A6-A88E01ED4E2F}</Project>
       <Name>Serendipity.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\app\Serendipity.Data\Serendipity.Data.csproj">
+      <Project>{F5822B09-4928-445F-BE1A-B25E82A8AF1B}</Project>
+      <Name>Serendipity.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\app\Serendipity.Web\Serendipity.Web.csproj">
       <Project>{8FAA4337-68AE-4E34-89F3-F64057F89ABD}</Project>

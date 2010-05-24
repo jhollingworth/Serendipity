@@ -57,3 +57,5 @@ C:\Dev\Serendipity\tests\Serendipity.Specs\obj\Debug\ResolveAssemblyReference.ca
 C:\Dev\Serendipity\tests\Serendipity.Specs\obj\Debug\Serendipity.Specs.dll
 C:\Dev\Serendipity\tests\Serendipity.Specs\obj\Debug\Serendipity.Specs.pdb
 C:\Dev\Serendipity\tests\Serendipity.Specs\bin\Debug\Moq.dll
+C:\Dev\Serendipity\tests\Serendipity.Specs\bin\Debug\NHibernate.Linq.dll
+C:\Dev\Serendipity\tests\Serendipity.Specs\bin\Debug\NHibernate.Linq.xml

@@ -5,6 +5,7 @@ using System.Text;
 using Castle.MicroKernel.Registration;
 using Castle.Windsor;
 using Serendipity.Core;
+using Serendipity.Miner.Indexers;
 using Serendipity.Web.CastleWindsor;
 using SharpArch.Core.PersistenceSupport;
 
@@ -22,7 +23,13 @@ namespace Serendipity.Miner
                 Component.For<LinkRanker>(),
                 Component.For<LinkIndexer>(),
                 Component.For<Miner>(),
-                Component.For<FeedSpider>());
+                Component.For<FeedSpider>(),
+                Component.For<IIndexer>()
+                    .ImplementedBy<DeliciousTagIndexer>()
+                    .ImplementedBy<PostRankIndexer>()
+                    .ImplementedBy<SemanticTagIndexer>()
+                    .ImplementedBy<SolrIndexer>()
+                );
 
             var feeds = _container.Resolve<IRepository<Feed>>();
 

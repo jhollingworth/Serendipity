@@ -4,9 +4,9 @@ using Serendipity.Core;
 
 namespace Serendipity.Miner.Indexers
 {
-    class SemanticTagIndexer : Indexer
+    class SemanticTagIndexer : IIndexer
     {
-        public override void Index(Link link)
+        public void Index(Link link)
         {
             throw new NotImplementedException();
         }
